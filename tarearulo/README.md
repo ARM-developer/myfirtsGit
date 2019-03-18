@@ -16,7 +16,7 @@ los lists los utilizamos para darles formato a las listas que utilizemos.
 * con un tab como separador, y un * crearemos un subelemento.
     * ejemplo lists 2
 
-##images 
+## images 
 si tenemos la imagen dentro de nuestro repositorio solo necesitaremos, utilzar 
 * \!\[GitHub Logo]\(images/logo.jpg)
 
@@ -30,8 +30,20 @@ con eso anadiremos la imagen a nuestro documento directamente.
 como podemos deducir sirve para darle un *resalte* _resalte_ **resalte** __resalte__ al texto, es solo para añadir, una exaltacion por alguna palabra;
 * \*resaltee\*, \_resalte\_, \*\*resalte\*\*, \_\_resalte\_\_. 
 
-##URL
+## URL
 los url no son mas que link de internet, o direcciones electronicas, entonces veamos como referencias una direccion electronica.
 * \[nombre\]\(direccion\)
 
 [Google](http://google.com)
+
+## citas
+las citas se usan mayormente para referencias las palabras de autores, y asi no cometer plagio.
+\> utilizamos este simbolo y escribimos lo citado
+por ejemplo como dijo teresa 
+>ENTRE SER O NO SER, YO SOY XD
+
+## BACKSLASH ESCAPES 
+tomando en cuenta que muchas de los simbolos de teclador generan algun tipo de herramienta en markdown, se implemento una herramienta que le quita la funcion a muchas otras, la cual es la diagonal inversa
+* \ 
+
+\\* \ asi se veria un lists si le interponemos un BACKSLASH.
