@@ -60,3 +60,22 @@ x | y
 --|--
 3 | 0
 
+## bloques de codigo
+
+\`\`\` js 
+
+function test\()\{
+
+ console.log("look, ma', no spaces");
+
+\}
+
+\`\`\`
+
+```js
+fuction test(){
+    console.log("lock, ma', no spaces");
+}
+```
+recordando que esta herramienta no compila el codigo, solo es una ayuda para dar ejemplos del mismo.
+
