@@ -21,4 +21,10 @@ si tenemos la imagen dentro de nuestro repositorio solo necesitaremos, utilzar
 * \!\[GitHub Logo]\(images/logo.jpg)
 
 ![GitHub logo]()
+si teemos la imagen en una nube o la necesitamos directo de internet
+* Format:\!\[Alt Tex]\(url)
+con eso anadiremos la imagen a nuestro documento directamente.
 
+## emphasis
+como podemos deducir sirve para darle un *resalte* _resalte_ **resalte** __resalte__ al texto, es solo para añadir, una exaltacion por alguna palabra;
+* \*resaltee\*, \_resalte\_, \*\*resalte\*\*, \_\_resalte\_\_. 
