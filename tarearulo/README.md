@@ -47,3 +47,16 @@ tomando en cuenta que muchas de los simbolos de teclador generan algun tipo de h
 * \ 
 
 \\* \ asi se veria un lists si le interponemos un BACKSLASH.
+
+## tablas
+las tablas se crean manualmente
+* |,- no sirven para ser filas y columnas
+
+* x | y
+* --|--
+* 3 | 0
+
+x | y
+--|--
+3 | 0
+
