@@ -79,3 +79,4 @@ fuction test(){
 ```
 recordando que esta herramienta no compila el codigo, solo es una ayuda para dar ejemplos del mismo.
 
+## escrito y dirigido por ANGEL ALEJANDRO RUIZ MAY 
